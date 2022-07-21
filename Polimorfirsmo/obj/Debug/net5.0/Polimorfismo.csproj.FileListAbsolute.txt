@@ -1,0 +1,16 @@
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\bin\Debug\net5.0\Polimorfismo.exe
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\bin\Debug\net5.0\Polimorfismo.deps.json
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.json
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\bin\Debug\net5.0\Polimorfismo.runtimeconfig.dev.json
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\bin\Debug\net5.0\Polimorfismo.dll
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\bin\Debug\net5.0\Polimorfismo.pdb
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\obj\Debug\net5.0\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\obj\Debug\net5.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\obj\Debug\net5.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\obj\Debug\net5.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\obj\Debug\net5.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\obj\Debug\net5.0\Polimorfismo.dll
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\obj\Debug\net5.0\Polimorfismo.pdb
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\obj\Debug\net5.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\obj\Debug\net5.0\ref\Polimorfismo.dll
+C:\Users\jeano\Desktop\Generation\Exercicios\poliformiaherança\Polimorfirsmo\Polimorfirsmo\bin\Debug\net5.0\ref\Polimorfismo.dll
